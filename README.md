@@ -67,6 +67,46 @@ Work Plan Language (WPL) is a domain-specific language designed to describe auto
 
 ---
 
+## 🎓 Academic Projects
+
+> *The following projects were developed as part of the Computer Science degree (Licenciatura en Ciencias de la Computación) and are intended to demonstrate theoretical foundations and language/systems knowledge.*
+
+### A. Tiger Language Compiler
+> *Academic project — Compilers course (4th year, CS degree)*
+
+A fully functional compiler for the Tiger programming language, covering the complete compilation pipeline: lexical analysis, parsing, semantic analysis, intermediate code generation, and target code emission. The project deepened understanding of language theory, grammar design, and low-level code generation techniques.
+
+**Technologies:** Standard ML · Compiler Design · Lexing & Parsing · Semantic Analysis · Code Generation
+
+---
+
+### B. SQL in Haskell
+> *Academic project — Advanced Programming Languages course (ALP, CS degree)*
+
+A final-year project that implements a subset of SQL as an embedded domain-specific language in Haskell. The system supports relational operations (select, project, join, filter) using functional programming abstractions such as type classes and higher-order functions, demonstrating how declarative query semantics can be expressed purely in a functional paradigm.
+
+**Technologies:** Haskell · Functional Programming · Domain-Specific Languages · Relational Algebra
+
+---
+
+### C. NachOS — Educational Operating System
+> *Academic project — Operating Systems course (CS degree)*
+
+Extensions and modifications to NachOS (Not Another Completely Heuristic Operating System), a widely used educational OS framework. Work included implementing process scheduling, memory management, and system call handling, providing hands-on experience with core OS concepts in a real kernel codebase.
+
+**Technologies:** C++ · Operating Systems · Process Scheduling · Memory Management · System Calls
+
+---
+
+### D. Undersampling Methods for Imbalanced Datasets
+> *Academic project — Machine Learning / Data Science*
+
+An implementation and comparison of several undersampling techniques to address class imbalance in machine learning datasets. The project explores methods such as random undersampling, Tomek Links, and cluster-based strategies, evaluating their impact on classifier performance across benchmark datasets.
+
+**Technologies:** Python · Machine Learning · Data Preprocessing · Scikit-learn · Class Imbalance
+
+---
+
 ## 📫 Contact
 
 - **GitHub:** [github.com/palonso22](https://github.com/palonso22)
