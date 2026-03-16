@@ -107,6 +107,15 @@ An implementation and comparison of several undersampling techniques to address 
 
 ---
 
+### E. FD4 Language Compiler
+> *Academic project — Compilers course 2023 (CS degree, LCC/FCEIA/UNR)*
+
+A full compiler and interactive interpreter for the FD4 language, implemented in Haskell as part of the 2023 Compilers course at FCEIA/UNR. The project covers the complete compilation pipeline: lexical analysis, parsing, type checking, intermediate representation, and evaluation. The interpreter supports an interactive REPL with commands for loading programs, inspecting ASTs, type-checking expressions, and evaluating FD4 terms. A black-box testing framework is included to validate compiler correctness across a suite of FD4 programs.
+
+**Technologies:** Haskell · Cabal · Compiler Design · Lexing & Parsing · Type Checking · Interpreter Design
+
+---
+
 ## 📫 Contact
 
 - **GitHub:** [github.com/palonso22](https://github.com/palonso22)
