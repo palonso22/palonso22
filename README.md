@@ -58,6 +58,15 @@ A lightweight, real-time video streaming system built with OpenCV and UDP, desig
 
 ---
 
+### 4. Work Plan Language (WPL)
+> *Domain-specific language for autonomous task execution in agricultural machines*
+
+Work Plan Language (WPL) is a domain-specific language designed to describe autonomous task execution plans for agricultural machines. It allows defining structured sequences of stages that represent high-level operations such as transport, work, or other autonomous behaviors. WPL plans are written in YAML and interpreted by a Plan Manager responsible for validating, loading, and executing stages sequentially or conditionally. The language was designed to define deterministic autonomous workflows, enable runtime validation and monitoring, separate mission logic from execution code, and allow operators to configure machine behavior without modifying the underlying software.
+
+**Technologies:** YAML · Domain-Specific Language · Autonomous Systems · Agricultural Robotics · Plan Management
+
+---
+
 ## 📫 Contact
 
 - **GitHub:** [github.com/palonso22](https://github.com/palonso22)
